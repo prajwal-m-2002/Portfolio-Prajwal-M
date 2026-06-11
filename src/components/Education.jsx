@@ -10,7 +10,7 @@ const Education = () => {
             description: 'Specializing in Software Development and Web Technologies',
         },
         {
-            degree: 'Bachelor of Computer Applications (BCA)',
+            degree: 'Bachelor of Science (BSC)',
             institution: 'Canara College, Mangalore',
             year: '2020 - 2023',
             description: 'Focus on Programming Fundamentals and Database Management',
